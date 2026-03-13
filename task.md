@@ -1,0 +1,28 @@
+# Task List: Sports-borrow System Development
+
+- [x] **Phase 1: Project Structure & Documentation**
+    - [x] Create `readme.md` with project overview
+    - [x] Set up directory structure (`src`, `config`, `assets`)
+    - [x] Initialize `task.md`
+- [x] **Phase 2: Infrastructure Setup (Docker)**
+    - [x] Create `Dockerfile` for PHP/Apache
+    - [x] Create `docker-compose.yml` for PHP and MySQL/phpMyAdmin
+    - [x] Start Docker containers and verify
+- [x] **Phase 3: Database Design**
+    - [x] Create `database.sql` with tables (users, equipment, borrows)
+    - [x] Import database into phpMyAdmin
+- [x] **Phase 4: Core Implementation (PHP & PDO)**
+    - [x] Create database connection class using PDO
+    - [x] Implement Login System with Tailwind CSS
+- [x] **Phase 5: Equipment Management (CRUD)**
+    - [x] Display equipment list
+    - [x] Implement Add/Edit/Delete with AJAX & jQuery Confirm
+- [x] **Phase 6: UI/UX Polishing (Initial)**
+    - [x] Apply Tailwind CSS and interactive elements
+- [x] **Phase 8: UI Overhaul (Premium Edition)**
+    - [x] Redesign Login Page (index.php)
+    - [x] Redesign Dashboard Page (dashboard.php)
+    - [x] Add Micro-animations and Hover Effects
+- [x] **Phase 7: GitHub & Final Submission**
+    - [/] Push code to GitHub
+    - [ ] Complete assignment document

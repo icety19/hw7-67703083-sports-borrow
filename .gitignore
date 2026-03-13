@@ -1,0 +1,11 @@
+# Docker
+db_data/
+.DS_Store
+Thumbs.db
+
+# Ideal for PHP
+vendor/
+.env
+.vscode/
+.idea/
+*.log
