@@ -24,5 +24,6 @@
     - [x] Redesign Dashboard Page (dashboard.php)
     - [x] Add Micro-animations and Hover Effects
 - [x] **Phase 7: GitHub & Final Submission**
-    - [/] Push code to GitHub
-    - [ ] Complete assignment document
+    - [x] Create `.gitignore` and Initialize Git
+    - [x] Commit all files locally
+    - [ ] Push code to GitHub (User Action Required)
